@@ -46,6 +46,11 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
+
+define('WPLANG', 'zh_CN');
+// define('WP_PROXY_HOST', '127.0.0.1');
+// define('WP_PROXY_PORT', '1087');
+
 define( 'AUTH_KEY',         'P:r6Mmk%eM[~nY#Xphq<7CKr{LkuUq-L7&C6=P?+RkRB0$XrcJ*Z q{9.Gp[xinr' );
 define( 'SECURE_AUTH_KEY',  'dZ>bI%V9,N##1<!|sS%@y}1k9?;r#yh-=J`#uvL)bP ]QB`N*<,amESlyMzg=PAS' );
 define( 'LOGGED_IN_KEY',    '5cX$K7bF?-zKi4q7%WaUM *p`QuWR^>P~o1+,zSr1j@>nUnm?Y3}Gh{=vpB~6=U3' );
